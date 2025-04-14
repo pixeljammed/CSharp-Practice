@@ -1,0 +1,15 @@
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/bin/Debug/net7.0/SimpleCardGame
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/bin/Debug/net7.0/SimpleCardGame.deps.json
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/bin/Debug/net7.0/SimpleCardGame.runtimeconfig.json
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/bin/Debug/net7.0/SimpleCardGame.dll
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/bin/Debug/net7.0/SimpleCardGame.pdb
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/SimpleCardGame.csproj.AssemblyReference.cache
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/SimpleCardGame.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/SimpleCardGame.AssemblyInfoInputs.cache
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/SimpleCardGame.AssemblyInfo.cs
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/SimpleCardGame.csproj.CoreCompileInputs.cache
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/SimpleCardGame.dll
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/refint/SimpleCardGame.dll
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/SimpleCardGame.pdb
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/SimpleCardGame.genruntimeconfig.cache
+/Users/milotek/RiderProjects/Card Game/SimpleCardGame/obj/Debug/net7.0/ref/SimpleCardGame.dll

@@ -1,0 +1,15 @@
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/Whipped Cream Loops 5.csproj.AssemblyReference.cache
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/Whipped Cream Loops 5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/Whipped Cream Loops 5.AssemblyInfoInputs.cache
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/Whipped Cream Loops 5.AssemblyInfo.cs
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/Whipped Cream Loops 5.csproj.CoreCompileInputs.cache
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/bin/Debug/net7.0/Whipped Cream Loops 5
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/bin/Debug/net7.0/Whipped Cream Loops 5.deps.json
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/bin/Debug/net7.0/Whipped Cream Loops 5.runtimeconfig.json
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/bin/Debug/net7.0/Whipped Cream Loops 5.dll
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/bin/Debug/net7.0/Whipped Cream Loops 5.pdb
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/Whipped Cream Loops 5.dll
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/refint/Whipped Cream Loops 5.dll
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/Whipped Cream Loops 5.pdb
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/Whipped Cream Loops 5.genruntimeconfig.cache
+/Users/milotek/Projects/Whipped Cream Loops 5/Whipped Cream Loops 5/obj/Debug/net7.0/ref/Whipped Cream Loops 5.dll

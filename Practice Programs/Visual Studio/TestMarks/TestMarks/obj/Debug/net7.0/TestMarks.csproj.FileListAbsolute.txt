@@ -1,0 +1,15 @@
+/Users/milotek/Projects/TestMarks/TestMarks/bin/Debug/net7.0/TestMarks
+/Users/milotek/Projects/TestMarks/TestMarks/bin/Debug/net7.0/TestMarks.deps.json
+/Users/milotek/Projects/TestMarks/TestMarks/bin/Debug/net7.0/TestMarks.runtimeconfig.json
+/Users/milotek/Projects/TestMarks/TestMarks/bin/Debug/net7.0/TestMarks.dll
+/Users/milotek/Projects/TestMarks/TestMarks/bin/Debug/net7.0/TestMarks.pdb
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/TestMarks.csproj.AssemblyReference.cache
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/TestMarks.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/TestMarks.AssemblyInfoInputs.cache
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/TestMarks.AssemblyInfo.cs
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/TestMarks.csproj.CoreCompileInputs.cache
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/TestMarks.dll
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/refint/TestMarks.dll
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/TestMarks.pdb
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/TestMarks.genruntimeconfig.cache
+/Users/milotek/Projects/TestMarks/TestMarks/obj/Debug/net7.0/ref/TestMarks.dll

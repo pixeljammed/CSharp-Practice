@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TrOl+YXuZu8LpYXyANBx/BZ62m7HGZ6K8hngBlW6eWmuJx+jhFH594/evaqAIPWnPa4ij4zzitkUUOD9fyj7QA==",
+  "success": true,
+  "projectFilePath": "/Users/milotek/RiderProjects/Shapes/Shapes/Shapes.csproj",
+  "expectedPackageFiles": [
+    "/Users/milotek/.nuget/packages/microsoft.netcore.app.ref/3.1.0/microsoft.netcore.app.ref.3.1.0.nupkg.sha512",
+    "/Users/milotek/.nuget/packages/microsoft.aspnetcore.app.ref/3.1.10/microsoft.aspnetcore.app.ref.3.1.10.nupkg.sha512",
+    "/Users/milotek/.nuget/packages/microsoft.netcore.app.host.osx-x64/3.1.32/microsoft.netcore.app.host.osx-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}

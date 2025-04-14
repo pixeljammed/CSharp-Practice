@@ -1,0 +1,15 @@
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/bin/Debug/net7.0/Fibbonachi
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/bin/Debug/net7.0/Fibbonachi.deps.json
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/bin/Debug/net7.0/Fibbonachi.runtimeconfig.json
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/bin/Debug/net7.0/Fibbonachi.dll
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/bin/Debug/net7.0/Fibbonachi.pdb
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/Fibbonachi.csproj.AssemblyReference.cache
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/Fibbonachi.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/Fibbonachi.AssemblyInfoInputs.cache
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/Fibbonachi.AssemblyInfo.cs
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/Fibbonachi.csproj.CoreCompileInputs.cache
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/Fibbonachi.dll
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/refint/Fibbonachi.dll
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/Fibbonachi.pdb
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/Fibbonachi.genruntimeconfig.cache
+/Users/milotek/Projects/Fibbonachi/Fibbonachi/obj/Debug/net7.0/ref/Fibbonachi.dll

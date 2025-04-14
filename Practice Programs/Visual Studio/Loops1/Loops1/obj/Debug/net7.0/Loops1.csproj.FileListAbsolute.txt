@@ -1,0 +1,15 @@
+/Users/milotek/Projects/Loops1/Loops1/bin/Debug/net7.0/Loops1
+/Users/milotek/Projects/Loops1/Loops1/bin/Debug/net7.0/Loops1.deps.json
+/Users/milotek/Projects/Loops1/Loops1/bin/Debug/net7.0/Loops1.runtimeconfig.json
+/Users/milotek/Projects/Loops1/Loops1/bin/Debug/net7.0/Loops1.dll
+/Users/milotek/Projects/Loops1/Loops1/bin/Debug/net7.0/Loops1.pdb
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/Loops1.csproj.AssemblyReference.cache
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/Loops1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/Loops1.AssemblyInfoInputs.cache
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/Loops1.AssemblyInfo.cs
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/Loops1.csproj.CoreCompileInputs.cache
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/Loops1.dll
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/refint/Loops1.dll
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/Loops1.pdb
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/Loops1.genruntimeconfig.cache
+/Users/milotek/Projects/Loops1/Loops1/obj/Debug/net7.0/ref/Loops1.dll

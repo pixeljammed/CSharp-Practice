@@ -1,0 +1,5 @@
+/Users/milotek/RiderProjects/OOP/OOP1/obj/Debug/net7.0/OOP1.csproj.AssemblyReference.cache
+/Users/milotek/RiderProjects/OOP/OOP1/obj/Debug/net7.0/OOP1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/RiderProjects/OOP/OOP1/obj/Debug/net7.0/OOP1.AssemblyInfoInputs.cache
+/Users/milotek/RiderProjects/OOP/OOP1/obj/Debug/net7.0/OOP1.AssemblyInfo.cs
+/Users/milotek/RiderProjects/OOP/OOP1/obj/Debug/net7.0/OOP1.csproj.CoreCompileInputs.cache

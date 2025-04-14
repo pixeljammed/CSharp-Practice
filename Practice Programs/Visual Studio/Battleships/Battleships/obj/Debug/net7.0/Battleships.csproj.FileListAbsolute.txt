@@ -1,0 +1,15 @@
+/Users/milotek/Projects/Battleships/Battleships/bin/Debug/net7.0/Battleships
+/Users/milotek/Projects/Battleships/Battleships/bin/Debug/net7.0/Battleships.deps.json
+/Users/milotek/Projects/Battleships/Battleships/bin/Debug/net7.0/Battleships.runtimeconfig.json
+/Users/milotek/Projects/Battleships/Battleships/bin/Debug/net7.0/Battleships.dll
+/Users/milotek/Projects/Battleships/Battleships/bin/Debug/net7.0/Battleships.pdb
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/Battleships.csproj.AssemblyReference.cache
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/Battleships.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/Battleships.AssemblyInfoInputs.cache
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/Battleships.AssemblyInfo.cs
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/Battleships.csproj.CoreCompileInputs.cache
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/Battleships.dll
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/refint/Battleships.dll
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/Battleships.pdb
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/Battleships.genruntimeconfig.cache
+/Users/milotek/Projects/Battleships/Battleships/obj/Debug/net7.0/ref/Battleships.dll

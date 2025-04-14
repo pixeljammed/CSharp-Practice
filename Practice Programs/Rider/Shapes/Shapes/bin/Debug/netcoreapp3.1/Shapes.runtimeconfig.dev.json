@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/milotek/.dotnet/store/|arch|/|tfm|",
+      "/Users/milotek/.nuget/packages"
+    ]
+  }
+}

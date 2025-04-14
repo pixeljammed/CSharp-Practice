@@ -1,0 +1,15 @@
+/Users/milotek/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator
+/Users/milotek/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.deps.json
+/Users/milotek/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.runtimeconfig.json
+/Users/milotek/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.dll
+/Users/milotek/Projects/Calculator/Calculator/bin/Debug/net7.0/Calculator.pdb
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.AssemblyReference.cache
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfoInputs.cache
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.AssemblyInfo.cs
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.csproj.CoreCompileInputs.cache
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.dll
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/refint/Calculator.dll
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.pdb
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/Calculator.genruntimeconfig.cache
+/Users/milotek/Projects/Calculator/Calculator/obj/Debug/net7.0/ref/Calculator.dll

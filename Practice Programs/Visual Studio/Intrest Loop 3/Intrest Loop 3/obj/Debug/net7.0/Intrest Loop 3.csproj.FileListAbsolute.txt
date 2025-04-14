@@ -1,0 +1,15 @@
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/bin/Debug/net7.0/Intrest Loop 3
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/bin/Debug/net7.0/Intrest Loop 3.deps.json
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/bin/Debug/net7.0/Intrest Loop 3.runtimeconfig.json
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/bin/Debug/net7.0/Intrest Loop 3.dll
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/bin/Debug/net7.0/Intrest Loop 3.pdb
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/Intrest Loop 3.csproj.AssemblyReference.cache
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/Intrest Loop 3.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/Intrest Loop 3.AssemblyInfoInputs.cache
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/Intrest Loop 3.AssemblyInfo.cs
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/Intrest Loop 3.csproj.CoreCompileInputs.cache
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/Intrest Loop 3.dll
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/refint/Intrest Loop 3.dll
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/Intrest Loop 3.pdb
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/Intrest Loop 3.genruntimeconfig.cache
+/Users/milotek/Projects/Intrest Loop 3/Intrest Loop 3/obj/Debug/net7.0/ref/Intrest Loop 3.dll

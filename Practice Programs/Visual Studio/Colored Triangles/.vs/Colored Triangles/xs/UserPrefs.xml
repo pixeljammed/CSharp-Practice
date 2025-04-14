@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{39241893-810D-46E5-8416-412E4F9B12BE}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programs/Colored Triangles.cs">
+    <Files>
+      <File FileName="Colored Triangles/Program.cs" Line="20" Column="35" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Colored Triangles" expanded="True">
+            <Node name="Colored Triangles" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Colored_220Triangles PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{F7DB6347-A5F4-49FA-910F-E024187F040F}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programs/ASCII Art.cs">
+    <Files>
+      <File FileName="ASCII Art/Program.cs" />
+      <File FileName="../../Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programs/Program.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ASCII Art" expanded="True">
+            <Node name="ASCII Art" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.ASCII_220Art FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

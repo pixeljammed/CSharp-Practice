@@ -1,0 +1,15 @@
+/Users/milotek/RiderProjects/Blackjack/Blackjack/bin/Debug/net7.0/Blackjack
+/Users/milotek/RiderProjects/Blackjack/Blackjack/bin/Debug/net7.0/Blackjack.deps.json
+/Users/milotek/RiderProjects/Blackjack/Blackjack/bin/Debug/net7.0/Blackjack.runtimeconfig.json
+/Users/milotek/RiderProjects/Blackjack/Blackjack/bin/Debug/net7.0/Blackjack.dll
+/Users/milotek/RiderProjects/Blackjack/Blackjack/bin/Debug/net7.0/Blackjack.pdb
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/Blackjack.csproj.AssemblyReference.cache
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/Blackjack.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/Blackjack.AssemblyInfoInputs.cache
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/Blackjack.AssemblyInfo.cs
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/Blackjack.csproj.CoreCompileInputs.cache
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/Blackjack.dll
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/refint/Blackjack.dll
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/Blackjack.pdb
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/Blackjack.genruntimeconfig.cache
+/Users/milotek/RiderProjects/Blackjack/Blackjack/obj/Debug/net7.0/ref/Blackjack.dll

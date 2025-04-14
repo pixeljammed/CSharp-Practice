@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{55BE2594-EFF6-4F8E-955F-E78800A32374}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="MAC Address Changer (macOS)/Program.cs">
+    <Files>
+      <File FileName="MAC Address Changer (macOS)/Program.cs" Line="9" Column="63" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="MAC Address Changer (macOS)" expanded="True">
+            <Node name="MAC Address Changer (macOS)" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.MAC_220Address_220Changer_220_228macOS_229 PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

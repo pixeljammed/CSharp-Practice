@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{AF39698B-9324-4264-A960-C2AB0B8D3CD4}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Caeser_220Cipheer PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programs/Caeser Cipher">
+    <Files>
+      <File FileName="Caeser Cipheer/Program.cs" Line="21" Column="24" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Caeser Cipheer" expanded="True">
+            <Node name="Caeser Cipheer" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

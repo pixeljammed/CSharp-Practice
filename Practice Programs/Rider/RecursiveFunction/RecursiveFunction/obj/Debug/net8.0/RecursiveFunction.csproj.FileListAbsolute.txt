@@ -1,0 +1,14 @@
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/bin/Debug/net8.0/RecursiveFunction
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/bin/Debug/net8.0/RecursiveFunction.deps.json
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/bin/Debug/net8.0/RecursiveFunction.runtimeconfig.json
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/bin/Debug/net8.0/RecursiveFunction.dll
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/bin/Debug/net8.0/RecursiveFunction.pdb
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/obj/Debug/net8.0/RecursiveFunction.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/obj/Debug/net8.0/RecursiveFunction.AssemblyInfoInputs.cache
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/obj/Debug/net8.0/RecursiveFunction.AssemblyInfo.cs
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/obj/Debug/net8.0/RecursiveFunction.csproj.CoreCompileInputs.cache
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/obj/Debug/net8.0/RecursiveFunction.dll
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/obj/Debug/net8.0/refint/RecursiveFunction.dll
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/obj/Debug/net8.0/RecursiveFunction.pdb
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/obj/Debug/net8.0/RecursiveFunction.genruntimeconfig.cache
+/Users/milotek/RiderProjects/RecursiveFunction/RecursiveFunction/obj/Debug/net8.0/ref/RecursiveFunction.dll

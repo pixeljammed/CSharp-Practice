@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{3958A365-5F0C-4E13-BAFD-2CE69CCCDB37}|Default">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Palindrome PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="../Caeser Cipheer/Caeser Cipheer/Program.cs">
+    <Files>
+      <File FileName="Palindrome/Program.cs" Line="18" Column="10" />
+      <File FileName="../Caeser Cipheer/Caeser Cipheer/Program.cs" Line="9" Column="19" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Palindrome" expanded="True">
+            <Node name="Palindrome" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+</Properties>

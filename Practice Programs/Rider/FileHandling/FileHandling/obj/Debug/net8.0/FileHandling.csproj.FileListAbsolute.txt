@@ -1,0 +1,14 @@
+/Users/milotek/RiderProjects/FileHandling/FileHandling/bin/Debug/net8.0/FileHandling
+/Users/milotek/RiderProjects/FileHandling/FileHandling/bin/Debug/net8.0/FileHandling.deps.json
+/Users/milotek/RiderProjects/FileHandling/FileHandling/bin/Debug/net8.0/FileHandling.runtimeconfig.json
+/Users/milotek/RiderProjects/FileHandling/FileHandling/bin/Debug/net8.0/FileHandling.dll
+/Users/milotek/RiderProjects/FileHandling/FileHandling/bin/Debug/net8.0/FileHandling.pdb
+/Users/milotek/RiderProjects/FileHandling/FileHandling/obj/Debug/net8.0/FileHandling.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/RiderProjects/FileHandling/FileHandling/obj/Debug/net8.0/FileHandling.AssemblyInfoInputs.cache
+/Users/milotek/RiderProjects/FileHandling/FileHandling/obj/Debug/net8.0/FileHandling.AssemblyInfo.cs
+/Users/milotek/RiderProjects/FileHandling/FileHandling/obj/Debug/net8.0/FileHandling.csproj.CoreCompileInputs.cache
+/Users/milotek/RiderProjects/FileHandling/FileHandling/obj/Debug/net8.0/FileHandling.dll
+/Users/milotek/RiderProjects/FileHandling/FileHandling/obj/Debug/net8.0/refint/FileHandling.dll
+/Users/milotek/RiderProjects/FileHandling/FileHandling/obj/Debug/net8.0/FileHandling.pdb
+/Users/milotek/RiderProjects/FileHandling/FileHandling/obj/Debug/net8.0/FileHandling.genruntimeconfig.cache
+/Users/milotek/RiderProjects/FileHandling/FileHandling/obj/Debug/net8.0/ref/FileHandling.dll

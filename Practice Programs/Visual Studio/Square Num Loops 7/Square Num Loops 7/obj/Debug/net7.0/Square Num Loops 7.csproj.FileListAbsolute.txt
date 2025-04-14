@@ -1,0 +1,15 @@
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/bin/Debug/net7.0/Square Num Loops 7
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/bin/Debug/net7.0/Square Num Loops 7.deps.json
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/bin/Debug/net7.0/Square Num Loops 7.runtimeconfig.json
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/bin/Debug/net7.0/Square Num Loops 7.dll
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/bin/Debug/net7.0/Square Num Loops 7.pdb
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/Square Num Loops 7.csproj.AssemblyReference.cache
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/Square Num Loops 7.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/Square Num Loops 7.AssemblyInfoInputs.cache
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/Square Num Loops 7.AssemblyInfo.cs
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/Square Num Loops 7.csproj.CoreCompileInputs.cache
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/Square Num Loops 7.dll
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/refint/Square Num Loops 7.dll
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/Square Num Loops 7.pdb
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/Square Num Loops 7.genruntimeconfig.cache
+/Users/milotek/Projects/Square Num Loops 7/Square Num Loops 7/obj/Debug/net7.0/ref/Square Num Loops 7.dll

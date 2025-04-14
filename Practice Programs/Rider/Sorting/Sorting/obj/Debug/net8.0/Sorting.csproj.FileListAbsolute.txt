@@ -1,0 +1,14 @@
+/Users/milotek/RiderProjects/Sorting/Sorting/bin/Debug/net8.0/Sorting
+/Users/milotek/RiderProjects/Sorting/Sorting/bin/Debug/net8.0/Sorting.deps.json
+/Users/milotek/RiderProjects/Sorting/Sorting/bin/Debug/net8.0/Sorting.runtimeconfig.json
+/Users/milotek/RiderProjects/Sorting/Sorting/bin/Debug/net8.0/Sorting.dll
+/Users/milotek/RiderProjects/Sorting/Sorting/bin/Debug/net8.0/Sorting.pdb
+/Users/milotek/RiderProjects/Sorting/Sorting/obj/Debug/net8.0/Sorting.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/RiderProjects/Sorting/Sorting/obj/Debug/net8.0/Sorting.AssemblyInfoInputs.cache
+/Users/milotek/RiderProjects/Sorting/Sorting/obj/Debug/net8.0/Sorting.AssemblyInfo.cs
+/Users/milotek/RiderProjects/Sorting/Sorting/obj/Debug/net8.0/Sorting.csproj.CoreCompileInputs.cache
+/Users/milotek/RiderProjects/Sorting/Sorting/obj/Debug/net8.0/Sorting.dll
+/Users/milotek/RiderProjects/Sorting/Sorting/obj/Debug/net8.0/refint/Sorting.dll
+/Users/milotek/RiderProjects/Sorting/Sorting/obj/Debug/net8.0/Sorting.pdb
+/Users/milotek/RiderProjects/Sorting/Sorting/obj/Debug/net8.0/Sorting.genruntimeconfig.cache
+/Users/milotek/RiderProjects/Sorting/Sorting/obj/Debug/net8.0/ref/Sorting.dll

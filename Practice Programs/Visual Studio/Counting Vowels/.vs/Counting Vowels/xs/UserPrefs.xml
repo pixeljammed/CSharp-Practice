@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{22F50D8A-A58B-4EA2-9B3D-161DA649EB82}|Default">
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.Counting_220Vowels PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programs/Counting Vowels">
+    <Files>
+      <File FileName="Counting Vowels/Program.cs" Line="31" Column="2" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Counting Vowels" expanded="True">
+            <Node name="Counting Vowels" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>

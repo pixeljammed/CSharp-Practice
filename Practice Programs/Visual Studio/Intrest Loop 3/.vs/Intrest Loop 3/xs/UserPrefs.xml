@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{EBAF85B0-C6EA-4A8A-98BE-B7774DCD860D}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="../../Library/CloudStorage/OneDrive-HillsRoadSixthFormCollege/Computer Science/Programs/Intrest Loop 3.cs">
+    <Files>
+      <File FileName="Intrest Loop 3/Program.cs" Line="26" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Intrest Loop 3" expanded="True">
+            <Node name="Intrest Loop 3" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Intrest_220Loop_2203 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

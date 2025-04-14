@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSort", "BubbleSort\BubbleSort.csproj", "{0BFD53A1-329B-4BA4-9CDD-B339482ADEEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0BFD53A1-329B-4BA4-9CDD-B339482ADEEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0BFD53A1-329B-4BA4-9CDD-B339482ADEEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0BFD53A1-329B-4BA4-9CDD-B339482ADEEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0BFD53A1-329B-4BA4-9CDD-B339482ADEEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

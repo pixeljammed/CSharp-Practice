@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{061633C1-E707-4C3F-AC57-2A7D4F96F171}|Default">
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workbench ActiveDocument="Whipped Cream Loops 5/Program.cs">
+    <Files>
+      <File FileName="Whipped Cream Loops 5/Program.cs" Line="18" Column="39" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Whipped Cream Loops 5" expanded="True">
+            <Node name="Whipped Cream Loops 5" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.Whipped_220Cream_220Loops_2205 PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

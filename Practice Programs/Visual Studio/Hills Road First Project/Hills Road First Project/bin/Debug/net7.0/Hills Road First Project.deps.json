@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Hills Road First Project/1.0.0": {
+        "runtime": {
+          "Hills Road First Project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Hills Road First Project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+    <PropertyGroup>
+        <OutputType>Exe</OutputType>
+        <TargetFramework>net7.0</TargetFramework>
+        <ImplicitUsings>enable</ImplicitUsings>
+        <Nullable>enable</Nullable>
+    </PropertyGroup>
+
+    <ItemGroup>
+      <Compile Update="BlackjackHand.cs">
+        <DependentUpon>ScoringHand.cs</DependentUpon>
+      </Compile>
+      <Compile Update="ScoringHand.cs">
+        <DependentUpon>Hand.cs</DependentUpon>
+      </Compile>
+      <Compile Update="PokerHand.cs">
+        <DependentUpon>ScoringHand.cs</DependentUpon>
+      </Compile>
+      <Compile Update="BlackjackGame.cs">
+        <DependentUpon>Game.cs</DependentUpon>
+      </Compile>
+    </ItemGroup>
+
+</Project>

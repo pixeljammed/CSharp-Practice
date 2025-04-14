@@ -1,0 +1,15 @@
+/Users/milotek/Projects/Passing by Value/Passing by Value/bin/Debug/net7.0/Passing by Value
+/Users/milotek/Projects/Passing by Value/Passing by Value/bin/Debug/net7.0/Passing by Value.deps.json
+/Users/milotek/Projects/Passing by Value/Passing by Value/bin/Debug/net7.0/Passing by Value.runtimeconfig.json
+/Users/milotek/Projects/Passing by Value/Passing by Value/bin/Debug/net7.0/Passing by Value.dll
+/Users/milotek/Projects/Passing by Value/Passing by Value/bin/Debug/net7.0/Passing by Value.pdb
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/Passing by Value.csproj.AssemblyReference.cache
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/Passing by Value.GeneratedMSBuildEditorConfig.editorconfig
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/Passing by Value.AssemblyInfoInputs.cache
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/Passing by Value.AssemblyInfo.cs
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/Passing by Value.csproj.CoreCompileInputs.cache
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/Passing by Value.dll
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/refint/Passing by Value.dll
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/Passing by Value.pdb
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/Passing by Value.genruntimeconfig.cache
+/Users/milotek/Projects/Passing by Value/Passing by Value/obj/Debug/net7.0/ref/Passing by Value.dll
